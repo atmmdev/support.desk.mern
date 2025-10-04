@@ -13,18 +13,6 @@
 
 </div>
 
-<br >
-<!-- References for Create budgets :: https://shields.io/category/build -->
-<div align="center">
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=complete&color=green&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=node&message=18&color=darkblue&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=React&message=18.2.0&color=blue&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=React Router&message=9.1&color=lightblue&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=MongoDB&message=6.7&color=lightgray&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=Mongoose&message=8.4&color=yellow&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=Express.js&message=4.19&color=red&style=for-the-badge"/>
-</div>
-
 ## Descriptions
 
 This is a project to support teams creating tickets for tasks with Vite, Node, Express, Axios, React, React Toastify, Redux Toolkit, React Router, JWT, MongoDB and Mongoose. Click <a href="https://project-github-finder-react-vite.vercel.app/"> here </a> to see the project.
