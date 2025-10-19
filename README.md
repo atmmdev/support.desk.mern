@@ -13,9 +13,15 @@
 
 </div>
 
+<div align="center">
+
+![COMPLETE](https://img.shields.io/badge/COMPLETE-7ED321?style=for-the-badge&logo=cachet&logoColor=white)
+
+</div>
+
 ## Descriptions
 
-This is a project to support teams creating tickets for tasks with Vite, Node, Express, Axios, React, React Toastify, Redux Toolkit, React Router, JWT, MongoDB and Mongoose. Click <a href="https://project-github-finder-react-vite.vercel.app/"> here </a> to see the project.
+This is a project to support teams creating tickets for tasks with Vite, Node, Express, Axios, React, React Toastify, Redux Toolkit, React Router, JWT, MongoDB and Mongoose.
 
 ## Images and Descriptions of Screens
 
